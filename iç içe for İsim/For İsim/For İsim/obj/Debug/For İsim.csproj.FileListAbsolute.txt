@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\iç içe for İsim\For İsim\For İsim\bin\Debug\For İsim.exe.config
+C:\Users\Lenovo\Desktop\iç içe for İsim\For İsim\For İsim\bin\Debug\For İsim.exe
+C:\Users\Lenovo\Desktop\iç içe for İsim\For İsim\For İsim\bin\Debug\For İsim.pdb
+C:\Users\Lenovo\Desktop\iç içe for İsim\For İsim\For İsim\obj\Debug\For İsim.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\iç içe for İsim\For İsim\For İsim\obj\Debug\For İsim.exe
+C:\Users\Lenovo\Desktop\iç içe for İsim\For İsim\For İsim\obj\Debug\For İsim.pdb
